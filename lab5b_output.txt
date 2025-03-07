@@ -1,0 +1,16 @@
+After appending to file1:
+Hello World
+This is the second line
+Third line
+Last line
+
+
+Reading file2:
+['Line 1', 'Line 2', 'Line 3']
+
+Reading file3 (with line numbers):
+1:Hello World
+2:This is the second line
+3:Third line
+4:Last line
+
